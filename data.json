@@ -1,0 +1,36 @@
+{
+  "toko": {
+    "nama": "Warung Bu Ani",
+    "nomorWA": "6281234567890"
+  },
+  "produk": [
+    {
+      "id": 1,
+      "name": "Nasi Goreng Spesial",
+      "price": 25000,
+      "description": "Nasi goreng dengan telur, ayam suwir, dan kerupuk.",
+      "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500&auto=format"
+    },
+    {
+      "id": 2,
+      "name": "Mie Ayam Bakso",
+      "price": 20000,
+      "description": "Mie ayam dengan bakso sapi, pangsit.",
+      "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?w=500&auto=format"
+    },
+    {
+      "id": 3,
+      "name": "Es Teh Manis",
+      "price": 5000,
+      "description": "Teh manis segar dengan es.",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=500&auto=format"
+    },
+    {
+      "id": 4,
+      "name": "Pisang Goreng",
+      "price": 10000,
+      "description": "Pisang goreng crispy toping keju.",
+      "image": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=500&auto=format"
+    }
+  ]
+}
